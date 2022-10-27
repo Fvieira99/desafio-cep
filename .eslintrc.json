@@ -1,0 +1,21 @@
+{
+	"env": {
+		"browser": true,
+		"es2021": true
+	},
+	"extends": "standard-with-typescript",
+	"overrides": [],
+	"parserOptions": {
+		"ecmaVersion": "latest",
+		"sourceType": "module"
+	},
+	"rules": {
+		"no-console": "error",
+		"import/no-unresolved": "error",
+		"import/order": "off",
+		"import/no-named-as-default-member": "off",
+		"@typescript-eslint/no-namespace": "off",
+		"import/newline-after-import": ["error"],
+		"lines-between-class-members": ["error", "always"]
+	}
+}
