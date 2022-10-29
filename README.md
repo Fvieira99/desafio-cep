@@ -88,5 +88,5 @@ Follow the env.example file.
 ### Run it
 
 ```bash
-  npm run start or npm run dev
+npm run start or npm run dev
 ```
