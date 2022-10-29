@@ -33,7 +33,6 @@ If CEP exists the API will return you the address information like this:
 
 ## How to use it
 
-<hr/>
 
 ### Make a request to the following endpoint:
 
@@ -49,17 +48,12 @@ POST /cep
 
 ## How to run locally
 
-<hr/>
-
-<br/>
-
 ### Clone the repository:
 
 ```bash
 git clone https://github.com/Fvieira99/desafio-cep-back.git
 ```
 
-<br/>
 
 ### Go to the project directory:
 
@@ -67,15 +61,11 @@ git clone https://github.com/Fvieira99/desafio-cep-back.git
 cd desafio-cep-back/
 ```
 
-<br/>
-
-### Install Dependencies
+### Install Dependencies:
 
 ```bash
 npm install
 ```
-
-<br/>
 
 ### Create env file following the example:
 
@@ -83,9 +73,7 @@ npm install
 Follow the env.example file.
 ```
 
-<br/>
-
-### Run it
+### Run it:
 
 ```bash
 npm run start or npm run dev
